@@ -33,3 +33,6 @@ docker compose down
 Create a Pipeline job `Bazarali_Daulet_DevOps` and choose **Pipeline script from SCM**, Git repository URL, branch `*/main`, script path `Jenkinsfile`. The Jenkins executor must have `git`, `python3`, `docker` and permission to access Docker daemon. Port 8085 must be free.
 
 Student: Daulet Bazarali / IT2-2308 / 37392
+
+## Health Check
+GET /health checks application availability.
