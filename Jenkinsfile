@@ -8,6 +8,7 @@ pipeline {
         STUDENT_ID = '37392'
         IMAGE_NAME = 'bazarali-daulet-devops'
         CONTAINER_NAME = 'bazarali-daulet-container'
+        PATH = "/Users/nurasylzapsarbek/.docker/bin:${env.PATH}"
     }
     stages {
         stage('Checkout') {
