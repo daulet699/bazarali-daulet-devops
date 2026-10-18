@@ -1,0 +1,5 @@
+Name: Daulet
+Surname: Bazarali
+Group: IT2-2308
+Student ID: 37392
+Course: DevOps
