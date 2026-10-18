@@ -1,0 +1,1 @@
+Public file: owner can read and write, others can read after chmod 644.
